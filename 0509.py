@@ -6,11 +6,12 @@ food = [
 'coffee', 
 'water',
 'water',
-'ramen'
+'ramen',
 ]
 
 plant = [
 'cactus',
 'rose',
-'tulip'
+'tulip',
 ]
+#trailing comma. Make it as habbit
