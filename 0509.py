@@ -1,7 +1,16 @@
 #May 09 Git practice
 
-animal = [
-'dog', 
-'cat'
+animal = ['dog', 'cat', 'hamster']
+
+food = [
+'coffee', 
+'water',
+'water',
+'ramen'
 ]
-food = ['coffee', 'water']
+
+plant = [
+'cactus',
+'rose',
+'tulip'
+]
