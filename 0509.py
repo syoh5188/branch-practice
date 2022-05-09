@@ -2,6 +2,13 @@
 
 animal = ['dog', 'cat', 'hamster']
 
+matrix = [
+	[1,0,0],
+	[0,1,0],
+	[0,0,1],
+]
+# demension
+
 food = [
 'coffee', 
 'water',
