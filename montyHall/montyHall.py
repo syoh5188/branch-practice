@@ -29,4 +29,4 @@ for _ in range(trial):
     
 print("stay: {} {}, switch: {} {}".format(stay, stay/trial, switch, switch/trial))
 
-print('Done')
+print('finish')
