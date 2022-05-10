@@ -2,6 +2,7 @@
 # Version 0.2 - changed at 2022-09-May 21:30
 # source from Instructor
 # Sanghyun add test!
+# jamjam is cute
 
 print('Monty Hall Problem - Offline 6')
 print('2022-May-09 21:30 changed')
@@ -31,3 +32,4 @@ for _ in range(trial):
 print("stay: {} {}, switch: {} {}".format(stay, stay/trial, switch, switch/trial))
 
 print('finish')
+# jamjam is cute
